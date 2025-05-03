@@ -1,6 +1,5 @@
  <h1> User Panel Images </h1> 
    <br>
-   <img src="https://github.com/PriyanshuSahoo21303/Blood_Bank_and_Donation_Management_System/blob/main/images/home_video.gif?raw=true">
    <img src="https://github.com/PriyanshuSahoo21303/Blood_Bank_and_Donation_Management_System/blob/main/images/Screenshot%202025-05-03%20131908.png?raw=true">
    <img src="https://github.com/PriyanshuSahoo21303/Blood_Bank_and_Donation_Management_System/blob/main/images/Screenshot%202025-05-03%20131954.png?raw=true">
    <img src="https://github.com/PriyanshuSahoo21303/Blood_Bank_and_Donation_Management_System/blob/main/images/Screenshot%202025-05-03%20132123.png?raw=true">
